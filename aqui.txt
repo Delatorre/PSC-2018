@@ -1,0 +1,4 @@
+Diferenças: Sintaxe JPQL é muito semelhante à sintaxe SQL. 
+Ter SQL como sintaxe é uma vantagem porque o SQL é simples e amplamente usado. 
+O SQL trabalha diretamente contra as tabelas, registros e campos do banco de dados relacional, 
+enquanto o JPQL trabalha com classes e instâncias Java.
